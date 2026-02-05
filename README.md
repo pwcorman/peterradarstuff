@@ -1,2 +1,2 @@
-# pwcorman.github.io
+# pwcorman
 Something radar related
